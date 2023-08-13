@@ -1,6 +1,8 @@
 Edit of Varneon's Playerlist prefab to intergrate with DisBridge.
 Thank you to Varneon for the original prefab.
 
+[Download](https://github.com/LastationVRChat/DisBridge-Playerlist/releases)
+
 # Links:
 Lastation's Discord: https://discord.gg/lastation
 UdonVR's Discord: https://discord.gg/gRXzqA6Gh4
