@@ -1,4 +1,4 @@
-Edit of Varneon's Playerlist prefab to intergrate with DisBridge.
+Edit of Varneon's Playerlist prefab to integrate with DisBridge.
 Thank you to Varneon for the original prefab.
 
 [Download](/releases)
@@ -11,8 +11,8 @@ DisBridge: https://wiki.disbridge.com
 
 ## Added features:
 Loading of groups from DisBridge.
-loading of a player's group color from DisBridge.
-loading of a player's group icon from DisBridge.
+Loading of a player's group color from DisBridge.
+Loading of a player's group icon from DisBridge.
 
 ## Installation
 Ensure you have DisBridge installed and configured.
@@ -21,5 +21,5 @@ Connect the DisBridge Plugin Manager to the prefab.
 
 # Credits:
 Varneon: for the original prefab.
-childofthebeast: for assisting with DisBridge intergration.
+childofthebeast: for assisting with DisBridge integration.
 Lastation: for the prefab edit and code cleanup.
