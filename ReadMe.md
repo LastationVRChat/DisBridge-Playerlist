@@ -22,6 +22,7 @@ Thank you to Varneon for the original prefab.
 - Loading of groups from DisBridge.
 - Loading of a player's group color from DisBridge.
 - Loading of a player's group icon from DisBridge.
+- Checking for Quest soon!
 
 ## Installation
 - Ensure you have DisBridge installed and configured.
