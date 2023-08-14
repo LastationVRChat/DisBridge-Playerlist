@@ -8,6 +8,15 @@ Thank you to Varneon for the original prefab.
 - UdonVR's Discord: https://discord.gg/gRXzqA6Gh4
 - DisBridge: https://wiki.disbridge.com
 
+## Features:
+- Basic UI canvas for easy customization.
+- Template object for easily editing the player data UI.
+- Icon to display if a player is in VR or not.
+- Instance lifetime counter.
+- Local player time counter.
+- Total player count.
+- Lists each player's name, ID, Time-joined, VR or Desktop, and DisBridge group icon and color
+
 
 ## Added features:
 - Loading of groups from DisBridge.
