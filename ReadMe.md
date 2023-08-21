@@ -1,7 +1,7 @@
 Edit of Varneon's Playerlist prefab to integrate with DisBridge.
 Thank you to Varneon for the original prefab.
 
-[Download](releases/tag/V1.0)
+[Download](releases/V1.0)
 
 # Links:
 - Lastation's Discord: https://discord.gg/lastation
